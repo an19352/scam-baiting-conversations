@@ -1,0 +1,47 @@
+{
+  "invalid": false,
+  "init_time": 1681637860.0,
+  "distract_time": 1120618,
+  "strategy": "Classifier",
+  "income_messages": [
+    "From: a************2@gmail.com\nTo: CRAWLER\nTime: 2023-04-16 10:37:40\nSUBJECT: It is my pleasure to inform yo\nIt is my pleasure to inform you about this Good News regard to your Awaiting Compensation Payment, Although you have spent huge amount of money trying to receive these funds to no avail, I want to assure you that you will receive your Compensation Payment without paying any amount of money from your own pocket.\nI have found legal Financier whom agreed to support us and Pay all the related fee and Charges, Till your fund reflected to your Bank Account without any further delay\nIn Conclusion of this transaction, The Financier will Take 10% of the Funds, I  Thomas Anderson  will take 5% of the Fund, If this condition is acceptable by you, Then Congratulations and be rest assured that you will receive your fund within next 3 working days without Paying any cent from your Pocket, The Financier will handle all related bills that may occur during the process of this Transaction.\nWhat the Financier needed from you to make this transaction a success is LinkedIn Account Login Details, If you have a LinkedIn Account, you are qualified and I must congratulate you in advance. Make sure this message is well understood before responding.\nwww. linkedin.com\nYour LinkedIn username\nYour LinkedIn password\nYour city and country,\nYour phone number\nYour home Address\nOnce the above-mentioned information is confirmed in our system, we will start processing your funds immediately.\nLooking Forward hearing from you soon.\nYours Sincerely.\nThomas Anderson\n",
+    "From: a************2@gmail.com\nTo: ah99608@l******s.email\nTime: 2023-04-28 13:58:56\nSUBJECT: Re: It is my pleasure to inform yo\nNo,\n",
+    "From: a************2@gmail.com\nTo: ah99608@l******s.email\nTime: 2023-04-29 09:54:38\nSUBJECT: Re: It is my pleasure to inform yo\nProvide your details and let us do ideal\n"
+  ],
+  "outbound_messages": [
+    "From: ah99608@l******s.email\nTo: a************2@gmail.com\nTime: 2023-04-16 10:37:42\nSUBJECT: Re: It is my pleasure to inform yo\nI am really keen to cooperate with you. But is there any potential risks that could effect your company and me?\nBest wishes,\nTeresa\n",
+    "From: ah99608@l******s.email\nTo: a************2@gmail.com\nTime: 2023-04-28 15:24:39\nSUBJECT: Re: It is my pleasure to inform yo\nYes and I just wanna say I wish to know more about you.\nBest wishes,\nTeresa\n"
+  ],
+  "conversations": [
+    {
+      "time": "1681637860",
+      "subject": "SUBJECT: It is my pleasure to inform yo",
+      "body": "It is my pleasure to inform you about this Good News regard to your Awaiting Compensation Payment, Although you have spent huge amount of money trying to receive these funds to no avail, I want to assure you that you will receive your Compensation Payment without paying any amount of money from your own pocket.\nI have found legal Financier whom agreed to support us and Pay all the related fee and Charges, Till your fund reflected to your Bank Account without any further delay\nIn Conclusion of this transaction, The Financier will Take 10% of the Funds, I  Thomas Anderson  will take 5% of the Fund, If this condition is acceptable by you, Then Congratulations and be rest assured that you will receive your fund within next 3 working days without Paying any cent from your Pocket, The Financier will handle all related bills that may occur during the process of this Transaction.\nWhat the Financier needed from you to make this transaction a success is LinkedIn Account Login Details, If you have a LinkedIn Account, you are qualified and I must congratulate you in advance. Make sure this message is well understood before responding.\nwww. linkedin.com\nYour LinkedIn username\nYour LinkedIn password\nYour city and country,\nYour phone number\nYour home Address\nOnce the above-mentioned information is confirmed in our system, we will start processing your funds immediately.\nLooking Forward hearing from you soon.\nYours Sincerely.\nThomas Anderson\n",
+      "direction": "Inbound"
+    },
+    {
+      "time": "1681637862",
+      "subject": "SUBJECT: Re: It is my pleasure to inform yo",
+      "body": "I am really keen to cooperate with you. But is there any potential risks that could effect your company and me?\nBest wishes,\nTeresa\n",
+      "direction": "Outbound"
+    },
+    {
+      "time": "1682686736",
+      "subject": "SUBJECT: Re: It is my pleasure to inform yo",
+      "body": "No,\n",
+      "direction": "Inbound"
+    },
+    {
+      "time": "1682691879",
+      "subject": "SUBJECT: Re: It is my pleasure to inform yo",
+      "body": "Yes and I just wanna say I wish to know more about you.\nBest wishes,\nTeresa\n",
+      "direction": "Outbound"
+    },
+    {
+      "time": "1682758478",
+      "subject": "SUBJECT: Re: It is my pleasure to inform yo",
+      "body": "Provide your details and let us do ideal\n",
+      "direction": "Inbound"
+    }
+  ]
+}
